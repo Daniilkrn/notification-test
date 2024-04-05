@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/notification-test/static/css/main.f8e8f47c.css",
+    "main.js": "/notification-test/static/js/main.5d55b95c.js",
+    "static/media/HelveticaNeue_light.ttf": "/notification-test/static/media/HelveticaNeue_light.9c4794b091302442b6a0.ttf",
+    "index.html": "/notification-test/index.html",
+    "main.f8e8f47c.css.map": "/notification-test/static/css/main.f8e8f47c.css.map",
+    "main.5d55b95c.js.map": "/notification-test/static/js/main.5d55b95c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e8f47c.css",
+    "static/js/main.5d55b95c.js"
+  ]
+}
